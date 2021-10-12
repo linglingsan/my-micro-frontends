@@ -1,6 +1,3 @@
-
-
-
 export const List = ({ list, users }) => {
   return <table>
     <thead>
